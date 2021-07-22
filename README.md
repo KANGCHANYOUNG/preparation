@@ -54,7 +54,14 @@
 
 
 8. 다음은 어떤 프로그램 구조를 나타낸다. 모듈 F에서의 fan-in 과 fan-out의 수는 얼마인가?
+
+
+
+
  ![image](https://user-images.githubusercontent.com/78460496/126694959-44005112-54c1-47ff-ad29-fa3e4575b26f.png)
+ 
+ 
+ 
 
 ①		2		3
 ②		3		2  ==> 정답
